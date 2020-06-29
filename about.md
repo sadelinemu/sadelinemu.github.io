@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Meet Me!
+permalink: /meetme/
 ---
 
-Some information about you!
+I will put some information on here about me! 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+More fun stuff about me to come
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sumadeline@gmail.com](mailto:sumadeline@gmail.com)
