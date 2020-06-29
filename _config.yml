@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Madeline Su
+name: Your Name
 
 # Short bio or description (displayed in the header)
-description: Burgeoning web developer
+description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://i.postimg.cc/k5P7Gq38/53380635-2723654624342162-5705625548907085824-o.jpg
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -18,13 +18,16 @@ avatar: https://i.postimg.cc/k5P7Gq38/53380635-2723654624342162-5705625548907085
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: sumadeline@gmail.com
+  email:
   facebook:
-  instagram: @sadelinemu
-  linkedin: 
+  flickr:
+  github: barryclark/jekyll-now
+  instagram:
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: sadelinemu
+  twitter: jekyllrb
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
