@@ -1,0 +1,11 @@
+# everything in this file won't be tracked by github
+
+# this is the "build" directory - all the files built by jekyll end up here
+# even though the user sees these files and not our templates, we as the 
+# developer don't care about them because we just work on the templates
+_site
+
+# this is auto generated
+Gemfile.lock
+.DS_Store
+.jekyll-cache
